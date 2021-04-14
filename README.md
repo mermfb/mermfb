@@ -1,6 +1,6 @@
-![Portada GitHub](https://user-images.githubusercontent.com/75809058/114667576-e6efc980-9cff-11eb-9499-41f1fc899c4f.png)
+![Mercedes Fe Portada GitHub](https://user-images.githubusercontent.com/75809058/114667576-e6efc980-9cff-11eb-9499-41f1fc899c4f.png)
 
-[(https://user-images.githubusercontent.com/75809058/114668291-d855e200-9d00-11eb-86fb-317c42549786.png)](https://www.linkedin.com/in/mermfb/)
+[![Mercedes Fe LinkedIn ](https://user-images.githubusercontent.com/75809058/114668291-d855e200-9d00-11eb-86fb-317c42549786.png)](https://www.linkedin.com/in/mermfb/)
 
 - :art: Maquetación: HTML5, CSS3, Flexbox, CSS Grid, SASS, Bootstrap.
 - :loop: JavaScript (ES6) y servicios web (APIs) de terceros.
