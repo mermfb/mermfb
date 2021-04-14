@@ -1,4 +1,7 @@
-![Portada GitHub Mercedes Fe](https://user-images.githubusercontent.com/75809058/114675606-b9f3e480-9d08-11eb-8f66-5c5b3cbf0f54.png)
+![Portada GitHub Mercedes Fe](https://user-images.githubusercontent.com/75809058/114675851-ffb0ad00-9d08-11eb-81b2-960774f002a4.png)
+[¡Echa un vistazo a mi LinkedIn!](https://www.linkedin.com/in/mermfb/)
+
+
 
 - :art: Maquetación: HTML5, CSS3, Flexbox, CSS Grid, SASS, Bootstrap.
 - :loop: JavaScript (ES6) y servicios web (APIs) de terceros.
